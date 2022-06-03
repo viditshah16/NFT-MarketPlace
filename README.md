@@ -14,5 +14,4 @@ I worked on the following:
 - Looping, iterating, and filtering through hash tables with Javascript and Solidity
 - Modern Card Design and UI with Tailwind and CSS
 - Hooking up a web3 provider to the Polygon and Ethereum network
-- Running full unit testing with Chai
 - And much more along the way! 
